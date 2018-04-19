@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+<<<<<<< HEAD
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.13 (~/anaconda/envs/k27/bin/python)" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6 (kivy)" project-jdk-type="Python SDK" />
+>>>>>>> d7fa9b0fe62fa750126a6a6d59b0aaa6d3d47b77
+</project>
